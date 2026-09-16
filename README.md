@@ -97,16 +97,10 @@
   <img width="98%" src="https://streak-stats.demolab.com/?user=Divya-Kumari18&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divya-Kumari18&theme=radical&hide_border=true" />
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Divya-Kumari18&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
-
-<sub>✨ Proudly crafted with <a href="https://gprm.itsvg.in">GPRM</a> — enhanced for extra sparkle</sub>
-
 </div>
